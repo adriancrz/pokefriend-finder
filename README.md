@@ -12,7 +12,7 @@ Pokéfriend finder helps user to find the best match to meet for a new friend!
 - JavaScript
 
 # Contributors
-- Adrián Cruz, lead designed, lead developer
+- Adrián Cruz, lead designer, lead developer
 
 # Herokuapp
 https://poke-friend.herokuapp.com/
