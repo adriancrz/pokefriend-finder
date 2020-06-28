@@ -13,5 +13,5 @@ Pokéfriend finder helps user to find the best match to meet for a new friend!
 # Contributors
 - Adrián Cruz, lead designed, lead developer
 
-# Live Demo
+# Herokuapp
 https://poke-friend.herokuapp.com/
