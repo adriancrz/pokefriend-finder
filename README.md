@@ -9,6 +9,7 @@ Pokéfriend finder helps user to find the best match to meet for a new friend!
 - HTML
 - nodeJS
 - Bootstrap
+- JavaScript
 
 # Contributors
 - Adrián Cruz, lead designed, lead developer
