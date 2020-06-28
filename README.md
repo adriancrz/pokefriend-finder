@@ -7,11 +7,11 @@ Pokéfriend finder helps user to find the best match to meet for a new friend!
 # Technologies Used
 - CSS
 - HTML
-- MySQL
+- nodeJS
 - Bootstrap
 
 # Contributors
-- Adrián Cruz, project manager, lead designed, lead developer
+- Adrián Cruz, lead designed, lead developer
 
 # Live Demo
-https://doggocalendar.herokuapp.com/
+https://poke-friend.herokuapp.com/
