@@ -2,7 +2,7 @@
 
 Pokéfriend finder helps user to find the best match to meet for a new friend!
 
-<img src= "Screen%20Shot%202020-06-27%20at%2019.37.14.png">
+<img src= "Screen%20Shot%202020-06-28%20at%2013.58.59.png">
 
 # Technologies Used
 - CSS
