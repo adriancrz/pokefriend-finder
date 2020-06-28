@@ -1,5 +1,3 @@
-# pokefriend-finder
-Poke Friend Finder!
 # Description
 
 Pokéfriend finder helps user to find the best match to meet for a new friend!
